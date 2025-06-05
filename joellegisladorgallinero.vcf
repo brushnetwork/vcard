@@ -13,9 +13,9 @@ EMAIL;TYPE=INTERNET;TYPE=HOME:joelgallinero@gmail.com
 URL:https://www.brushnetwork.com
 ADR;TYPE=WORK:;;San Antonio;Oton;Iloilo;5020;Philippines
 NOTE:BrushNetwork - a Graphic Design & Web Development company since 1997
-X-SOCIALPROFILE;TYPE=LinkedIn:https://linkedin.com/in/joelgallinero
-X-SOCIALPROFILE;TYPE=Facebook:https://facebook.com/joelgallinero
-X-SOCIALPROFILE;TYPE=Facebook Messenger:https://m.me/joelgallinero
-X-CUSTOM-SOCIAL;TYPE=Fiverr:https://fiverr.com/joelgallinero
-X-CUSTOM-SOCIAL;TYPE=Waze:https://waze.com/ul/hw9zhg4srg
+URL;TYPE=LinkedIn:https://linkedin.com/in/joelgallinero
+URL;TYPE=Facebook:https://facebook.com/joelgallinero
+URL;TYPE=Facebook Messenger:https://m.me/joelgallinero
+URL;TYPE=Fiverr:https://fiverr.com/joelgallinero
+URL;TYPE=Waze:https://waze.com/ul/hw9zhg4srg
 END:VCARD
